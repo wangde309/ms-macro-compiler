@@ -32,7 +32,7 @@ A command-line compiler that converts .ms macro scripts into hardware configurat
 
 For human readability, we have developed the `.ms` script syntax. The compiler will automatically convert it into 275 action points.
 
-## 📜MacroASM Syntax Manual
+## MacroASM Syntax Manual
 
 The `.mas` file adopts a minimalist assembly-style format, is case-insensitive, and supports `; Single-line comment.
 
