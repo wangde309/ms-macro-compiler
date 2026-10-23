@@ -10,8 +10,8 @@ MOVE 100 100 0
 SLEEP 100
 
 Press the left mouse button, hold for 50 milliseconds, release, and then wait for 500 milliseconds.
-MD L 50
-MU L 500
+MD ML 50
+MU ML 500
 
 Move up and to the left back to the original position (x=-100, y=-100).
 MOVE -100 -100 0
